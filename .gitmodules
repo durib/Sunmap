@@ -1,0 +1,3 @@
+[submodule "terracotta"]
+	path = terracotta
+	url = https://github.com/DHI/terracotta.git
